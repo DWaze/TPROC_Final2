@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="myButton" >
+    <item name="android:layout_width">wrap_content</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:layout_margin">5dp</item>
+    <item name="android:textColor">@color/White</item>
+    <item name="android:background">@drawable/bt_selector2</item>
+</style>
+    <style name="myButton2" >
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">5dp</item>
+        <item name="android:textColor">@color/White</item>
+        <item name="android:background">@drawable/bt_selector2</item>
+    </style>
+</resources>
